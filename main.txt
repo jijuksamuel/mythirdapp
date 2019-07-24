@@ -1,2 +1,8 @@
 main branch
+<<<<<<< HEAD
 b1
+first main
+Update main.txt
+=======
+first main
+>>>>>>> a6fea63... Update main.txt
